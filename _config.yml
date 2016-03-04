@@ -1,0 +1,28 @@
+name: koch
+favicon: null
+layout_spectrum: 0.19610201939940453
+typography_spectrum: 0.33523786650039256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8147141574881971
+  lightness: 0.3354293303564191
+  saturation: 0.333091014996171
+  rhythmicContrast: 0.5394047945737839
+purpose: []
